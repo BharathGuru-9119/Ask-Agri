@@ -14,7 +14,7 @@ Ask Agri Expert is a conversational AI web application designed to assist farmer
 
 ## Demo
 
-![Ask Agri Expert Screenshot](screenshot.png)  
+![Ask Agri Expert Screenshot]
 <img width="1626" height="906" alt="Screenshot 2025-08-12 094544" src="https://github.com/user-attachments/assets/6237b603-85e6-41bd-93ed-2dadd57bf4c1" />
 
 
@@ -93,3 +93,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google Gemini API for AI-generated answers
 - Google Fonts for Poppins
 - Material Symbols for icons
+
