@@ -15,7 +15,8 @@ Ask Agri Expert is a conversational AI web application designed to assist farmer
 ## Demo
 
 ![Ask Agri Expert Screenshot](screenshot.png)  
-*(Add your screenshot here)*
+*(<img width="1626" height="906" alt="image" src="https://github.com/user-attachments/assets/aa605b64-ec20-4d82-8536-c4b37b7dc114" />
+)*
 
 ## Tech Stack
 
@@ -37,3 +38,4 @@ Ask Agri Expert is a conversational AI web application designed to assist farmer
    ```bash
    git clone https://github.com/yourusername/ask-agri-expert.git
    cd ask-agri-expert
+
